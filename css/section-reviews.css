@@ -1,0 +1,13 @@
+.section-reviews {
+  position: relative;
+}
+
+.card-reviews {
+  padding: 2rem;
+  border-radius: 15px;
+}
+
+.icon-google {
+  width: 30px;
+  height: auto;
+}

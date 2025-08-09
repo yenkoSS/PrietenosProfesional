@@ -1,0 +1,13 @@
+.section-faq {
+  position: relative;
+  padding-bottom: 6rem;
+}
+
+.card-faq {
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: 100ms ease-in;
+  user-select: none;
+  width: 100%;
+  border-radius: 10px;
+}
